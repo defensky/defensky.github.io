@@ -1,0 +1,4 @@
+baseURL = 'https://defensky.github.io/'
+languageCode = 'en-us'
+title = 'Defensky Cloud Security'
+theme = 'Poison'
